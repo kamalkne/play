@@ -1,0 +1,19 @@
+{
+  "name": "play",
+  "version": "1.0.0",
+  "description": "movie details",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "Kamal Kokne",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
