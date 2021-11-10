@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`getImdbInfoFromResource Get Imdb Info should return IMDB data 1`] = `
+Object {
+  "id": "tt2543164",
+  "rating": "7.9",
+  "url": "http://www.imdb.com/title/tt2543164?ref_ext_viaplay",
+  "votes": "631 829",
+}
+`;
