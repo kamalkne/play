@@ -1,6 +1,15 @@
 # play
 Movie Details
 
+## Setup
+1. Clone repository `git clone https://github.com/kamalkne/play.git`
+2. `cd play`
+3. `npm install`
+4. `npm start`
+5. On browser navigate to `http://localhost:3000/trailer?resource=https://content.viaplay.se/pc-se/film/arrival-2016`
+
+## Test
+`npm test`
 
 ## Endpoints
 
